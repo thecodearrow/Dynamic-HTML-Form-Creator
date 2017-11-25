@@ -6,6 +6,7 @@ CodePen Link-- https://codepen.io/thecodearrow/pen/ZajOpN/
 Sample Working XML Inputs (have to be enclosed in the root tag <form></form>) :
 
 1.
+"
 <form>
 <name class="text">sahil</name>
 <age class="number">24</age>
@@ -25,3 +26,4 @@ Sample Working XML Inputs (have to be enclosed in the root tag <form></form>) :
 <button class="button">submit</button>
 <button2 class="button">Reset</button2>
 </form>
+"
